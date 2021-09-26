@@ -9,6 +9,6 @@ Det er mange begrensninger i programmet. Det skilles ikke på heistrykk innenfra
 Når heisen er på vei oppover stopper den på alle destinasjoner oppover før den går til destinasjoner nedover, og omvent.
 Nederste etasje er første, øverste etasje er default åttende. Kan endres i appsettings.json.
 
-Det er et testprosjekt med to enkle tester. Da det gjøres delayed tasks ble det vanskelig å skrive unit-tester.
+Det er et testprosjekt med to enkle tester.
 
 Føler jeg har brukt nok tid på dette selv om det er mye som kan forbedres.
